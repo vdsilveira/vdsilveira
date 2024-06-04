@@ -1,3 +1,9 @@
 ### Meu Portfólio
 
-![Portfólio](https://ivory-total-gecko-975.mypinata.cloud/ipfs/QmS5iisqfdsdShQDNCr3QVqA4RLq8retck9KD5bYdAJacs)
+![Portfólio](https://vdsilveira.github.io/Portfolio/)
+
+
+
+
+https://github.com/vdsilveira/vdsilveira/assets/122502607/c2227647-cf0f-44e0-a998-bc17b890b5f1
+
