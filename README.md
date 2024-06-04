@@ -4,7 +4,9 @@
 https://github.com/vdsilveira/vdsilveira/assets/122502607/6d7db9ff-4f8c-46ef-9a89-dcc10dc0d258
 
 
-Confira meu [portfólio](https://vdsilveira.github.io/Portfolio/)!
+### Confira meu [portfólio](https://vdsilveira.github.io/Portfolio/)!
+
+# Stacks
 
 ![chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 ![HyperLedger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) 
@@ -16,13 +18,7 @@ Confira meu [portfólio](https://vdsilveira.github.io/Portfolio/)!
 ![Openzeppelin](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 
-![bitcoin](https://github-readme-stats.vercel.app/api/top-langs/?username={vdsilveira}&theme=blue-green)
-
-
-
-
-
-
+![vdsilveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdsilveira&show_icons=true&theme=dracula)
 
 
 
