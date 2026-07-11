@@ -24,7 +24,7 @@
 - 📜 **CBCA Certified** — Cardano Blockchain Certified Associate
 - 📜 **Hyperledger Besu Certified** — Enterprise Ethereum & Permissioned Networks
 - 🛡️ Focus: **Privacy-preserving technologies**, **Zero-Knowledge Proofs**, **Decentralized Identity**
-- 🌱 Exploring **Midnight Network**, **Cardano**, **Solana** and **AI x Blockchain** intersections
+- 🌱 Exploring **Ethereum**,**Midnight Network**, **Solana** and **AI x Blockchain** intersections
 - 💬 Ask me about EVM, Solidity, Rust, Smart Contracts, ZK-Proofs, or Hyperledger Besu
 
 ---
