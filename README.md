@@ -15,11 +15,13 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently working as **Blockchain Developer** at **CPQD**
+- ⚡ Main expertise: **EVM Networks** (Ethereum, Hyperledger Besu, Quorum)
 - 🎓 **M.Sc. in Theory of Computation** @ UNICAMP (2025–2028)
 - 📜 **CBCA Certified** — Cardano Blockchain Certified Associate
+- 📜 **Hyperledger Besu Certified** — Enterprise Ethereum & Permissioned Networks
 - 🛡️ Focus: **Privacy-preserving technologies**, **Zero-Knowledge Proofs**, **Decentralized Identity**
 - 🌱 Exploring **Midnight Network**, **Cardano**, **Solana** and **AI x Blockchain** intersections
-- 💬 Ask me about Solidity, Rust, Smart Contracts, ZK-Proofs, or Hyperledger Besu
+- 💬 Ask me about EVM, Solidity, Rust, Smart Contracts, ZK-Proofs, or Hyperledger Besu
 
 ---
 
