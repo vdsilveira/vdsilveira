@@ -130,8 +130,6 @@ Exploring **deterministic systems** and on-chain verifiable computation.
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=vdsilveira&theme=radical" />
-
-<img src="https://github-readme-stats-dusky-xi.vercel.app/api/top-langs/?username=vdsilveira&layout=compact&theme=radical" />
+<img src="https://ghstats.dev/api/card?username=vdsilveira&bg=0D1117&text=FFB703&title_color=FFB703&icon_color=FFB703&border_color=FFB703" />
 
 </div>
