@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm Vinicius Silveira 👋
+### Hi there, I'm V. D. Silveira 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=60&lines=Blockchain+Engineer+%F0%9F%94%AE)](https://git.io/typing-svg)
 
