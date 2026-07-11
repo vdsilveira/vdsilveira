@@ -130,11 +130,10 @@ Exploring **deterministic systems** and on-chain verifiable computation.
 
 <div align="center">
 
-<a href="https://github.com/vdsilveira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vdsilveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdsilveira&layout=compact&theme=radical" />
-</a>
+![vdsilveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=vdsilveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=vdsilveira.vdsilveira&style=for-the-badge&color=7C3AED&label=PROFILE%20VIEWS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdsilveira&layout=compact&theme=radical)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vdsilveira&color=7C3AED&style=flat-square)](https://github.com/vdsilveira)
 
 </div>
