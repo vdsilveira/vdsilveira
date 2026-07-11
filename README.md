@@ -122,7 +122,7 @@ Exploring **deterministic systems** and on-chain verifiable computation.
 </tr>
 </table>
 
-> 📂 Check out my [Portfolio](https://vdsilveira.github.io/Portfolio/) for more projects!
+> 📂 Check out my [Portfolio](https://portfolio-c8m63wwvm-vdsilveiras-projects.vercel.app/) for more projects!
 
 ---
 
