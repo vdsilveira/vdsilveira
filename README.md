@@ -116,6 +116,14 @@ Decentralized protocol empowering the **Creator Economy** through **Clip Pools**
 
 </td>
 </tr>
+<tr>
+<td colspan="2" width="100%">
+
+#### 🌐 [Deterministic.Online](https://github.com/vdsilveira/Deterministic.Online)
+Exploring **deterministic systems** and on-chain verifiable computation.
+
+</td>
+</tr>
 </table>
 
 > 📂 Check out my [Portfolio](https://vdsilveira.github.io/Portfolio/) for more projects!
@@ -130,22 +138,6 @@ Decentralized protocol empowering the **Creator Economy** through **Clip Pools**
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vdsilveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdsilveira&layout=compact&theme=radical" />
 </a>
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vdsilveira&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vdsilveira&theme=radical&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=A78BFA)
 
 </div>
 
