@@ -77,14 +77,14 @@
 <tr>
 <td width="50%">
 
-#### 🆔 [Indy Besu — Decentralized Identity](https://github.com/vdsilveira/indy-besu)
+#### 🆔 [Indy Besu](https://github.com/vdsilveira/indy-besu)
 Replacement for Hyperledger Indy ecosystem with **EVM-compatible** verifiable credentials.
 
 </td>
 <td width="50%">
 
-#### 🐀 [Universo 25 — Behavioral Sink](https://github.com/vdsilveira/universo25-behavioral-sink)
-Recriação computacional do experimento de John B. Calhoun (1968) com **Modelagem Baseada em Agentes (ABM)**.
+#### 🐀 [Universo 25](https://github.com/vdsilveira/universo25-behavioral-sink)
+Recriação computacional do experimento de John B. Calhoun (1968) com **Modelagem Baseada em Agentes**.
 
 </td>
 </tr>
@@ -92,26 +92,24 @@ Recriação computacional do experimento de John B. Calhoun (1968) com **Modelag
 <td width="50%">
 
 #### 🔐 [ZK Credentials](https://github.com/vdsilveira/ZK_Credentials)
-Zero-Knowledge proof implementations for **privacy-preserving credential verification**.
+Implementações de **Zero-Knowledge Proofs** para verificação de credenciais com privacidade.
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-#### 🌙 [Midnight Network — Node & Wallet](https://github.com/vdsilveira/MidnIght-Node-Utils)
+#### 🌙 [Midnight Network](https://github.com/vdsilveira/MidnIght-Node-Utils)
 Tools and utilities for the **Midnight Network** privacy blockchain.
 
 </td>
-<td width="50%">
-
-#### 🎯 [SolCuts — Solana Hackathon](https://github.com/vdsilveira/SOLCUTS_colosseum_Hackathon)
-Decentralized protocol empowering the **Creator Economy** through **Clip Pools** on Solana.
-
-</td>
 </tr>
 <tr>
-<td colspan="2" width="100%">
+<td width="50%">
+
+#### 🎯 [SolCuts](https://github.com/vdsilveira/SOLCUTS_colosseum_Hackathon)
+Protocolo descentralizado para a **Creator Economy** via **Clip Pools** na Solana.
+
+</td>
+<td width="50%">
 
 #### 🌐 [Deterministic.Online](https://github.com/vdsilveira/Deterministic.Online)
 Exploring **deterministic systems** and on-chain verifiable computation.
