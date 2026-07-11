@@ -125,15 +125,15 @@ Decentralized protocol empowering the **Creator Economy** through **Clip Pools**
 <div align="center">
 
 <a href="https://github.com/vdsilveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vdsilveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdsilveira&layout=compact&theme=radical" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vdsilveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdsilveira&layout=compact&theme=radical" />
 </a>
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vdsilveira&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vdsilveira&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
