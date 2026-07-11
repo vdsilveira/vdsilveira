@@ -77,24 +77,18 @@
 <tr>
 <td width="50%">
 
-#### 🗳️ [Sway Petition DApp — Fuel Network](https://github.com/vdsilveira/sway-PetitiondApp-TheFuel-Network)
-Decentralized petition application built with **Sway** on the **Fuel Blockchain**.
-
-</td>
-<td width="50%">
-
-#### 🔍 [Block Explorer — Chainlens](https://github.com/vdsilveira/BlockExplorer_chainlens-free)
-Blockchain explorer for **Ethereum**, **Hyperledger Besu** and **Quorum** networks.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 #### 🆔 [Indy Besu — Decentralized Identity](https://github.com/vdsilveira/indy-besu)
 Replacement for Hyperledger Indy ecosystem with **EVM-compatible** verifiable credentials.
 
 </td>
+<td width="50%">
+
+#### 🐀 [Universo 25 — Behavioral Sink](https://github.com/vdsilveira/universo25-behavioral-sink)
+Recriação computacional do experimento de John B. Calhoun (1968) com **Modelagem Baseada em Agentes (ABM)**.
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🔐 [ZK Credentials](https://github.com/vdsilveira/ZK_Credentials)
