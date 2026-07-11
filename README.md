@@ -18,6 +18,7 @@
 - ⚡ Main expertise: **EVM Networks** (Ethereum, Hyperledger Besu, Quorum)
 - 🎓 **M.Sc. in Theory of Computation** @ UNICAMP 
 - 🎓 **Technology Residency** — Applied Cryptography & Blockchain Technologies @ PUCPR
+- 🎓 **B.Sc. in Technology** — Blockchain, Cryptocurrencies & Digital Finance @ Anhanguera
 - 📜 **CBCA Certified** — Cardano Blockchain Certified Associate
 - 📜 **Hyperledger Besu Certified** — Enterprise Ethereum & Permissioned Networks
 - 🛡️ Focus: **Privacy-preserving technologies**, **Zero-Knowledge Proofs**, **Decentralized Identity**
