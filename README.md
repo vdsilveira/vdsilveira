@@ -131,12 +131,6 @@ Exploring **deterministic systems** and on-chain verifiable computation.
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdsilveira&layout=compact&theme=radical" />
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=vdsilveira&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=vdsilveira.vdsilveira&style=for-the-badge&color=7C3AED&label=PROFILE%20VIEWS)
 
 </div>
