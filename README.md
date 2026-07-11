@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working as **Blockchain Developer** at **CPQD**
+- 🔭 Currently working as **Blockchain Developer** at [**CPQD**](https://www.cpqd.com.br/) — Centro de Pesquisa e Desenvolvimento em Telecomunicações
 - ⚡ Main expertise: **EVM Networks** (Ethereum, Hyperledger Besu, Quorum)
 - 🎓 **M.Sc. in Theory of Computation** @ UNICAMP 
 - 🎓 **Technology Residency** — Applied Cryptography & Blockchain Technologies @ PUCPR
