@@ -121,6 +121,28 @@ Client-side, air-gapped **Bitcoin wallet & key generator** deriving BIP39/BIP84/
 
 </td>
 </tr>
+
+</td>
+<td width="50%">
+#### 🔐 [HTSS (Rust)](https://github.com/vdsilveira/HTSS_Hierarchical_Threshold_Signature_Scheme)
+**Hierarchical Threshold Signature Scheme** in **Rust** for multi-layered, rank-based cryptographic authorization.
+
+</td>
+</tr>
+</td>
+<td width="50%">
+#### 🏛️ [Charter (Stellar)](https://github.com/vdsilveira/Charter)
+On-chain governance and treasury infrastructure for AI agents on **Stellar**, binding delegations and permissioned RWA transfers.
+
+</td>
+</tr>
+</td>
+<td width="50%">
+#### 🌙 [Midnight Privacy](https://github.com/vdsilveira/MD_Wrapped-Dollar_models) & [ERC-3643 Talk](https://github.com/vdsilveira/erc3643-trex-regulated-assets-talk)
+Shielded token smart contracts, [Midnight Node Utils](https://github.com/vdsilveira/MidnIght-Node-Utils), and **Regulated Asset Tokenization** talk slides.
+
+</td>
+</tr>
 </table>
 
 > 📂 Check out my [Portfolio](https://portfolio-gamma-nine-rl8fcvloa1.vercel.app/) for more projects and research!
