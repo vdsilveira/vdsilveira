@@ -82,8 +82,8 @@
 <tr>
 <td width="50%">
 
-#### 🏆 [ETHGlobal Mumbai 2026 Winner](https://github.com/vdsilveira)
-**Best Use of IDKit (World ID)** — Privacy-preserving decentralized identity and proof-of-personhood verification. *(Atualize com o link exato do repo)*
+#### 🏆 [ETHGlobal Mumbai 2026 Winner](https://github.com/vdsilveira/blind-report)
+**Best Use of IDKit (World ID)** — Privacy-preserving decentralized identity and proof-of-personhood verification. 
 
 </td>
 <td width="50%">
