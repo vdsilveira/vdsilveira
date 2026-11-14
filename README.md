@@ -116,8 +116,8 @@ Decentralized **Creator Economy** protocol powered by **Clip Pools** built on **
 </td>
 <td width="50%">
 
-#### 🌐 [Deterministic.Online](https://github.com/vdsilveira/Deterministic.Online)
-Research and tooling exploring **deterministic systems** and on-chain verifiable computation.
+#### ₿ [Deterministic.Online](https://github.com/vdsilveira/Deterministic.Online)
+Client-side, air-gapped **Bitcoin wallet & key generator** deriving BIP39/BIP84/BIP86 keys from customizable entropy sources via **BLAKE3** hashing.
 
 </td>
 </tr>
