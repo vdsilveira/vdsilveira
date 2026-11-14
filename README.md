@@ -82,8 +82,22 @@
 <tr>
 <td width="50%">
 
-#### 🏆 [ETHGlobal Mumbai 2026 Winner](https://github.com/vdsilveira/blind-report)
-**Best Use of IDKit (World ID)** — Privacy-preserving decentralized identity and proof-of-personhood verification. 
+#### 🏆 [blind-report (ETHGlobal Winner)](https://github.com/vdsilveira/blind-report)
+**Best Use of IDKit (World ID)** at ETHGlobal Mumbai 2026 — Privacy-preserving decentralized identity and proof-of-personhood verification.
+
+</td>
+<td width="50%">
+
+#### 🔐 [HTSS (Rust)](https://github.com/vdsilveira/HTSS_Hierarchical_Threshold_Signature_Scheme)
+**Hierarchical Threshold Signature Scheme** implemented in **Rust** for multi-layered, rank-based cryptographic authorization.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### ₿ [Deterministic.Online](https://github.com/vdsilveira/Deterministic.Online)
+Client-side, air-gapped **Bitcoin wallet & key generator** deriving BIP39/BIP84/BIP86 keys from customizable entropy sources via **BLAKE3** hashing.
 
 </td>
 <td width="50%">
@@ -96,50 +110,28 @@ Replacement for the Hyperledger Indy ecosystem with **EVM-compatible** verifiabl
 <tr>
 <td width="50%">
 
-#### 🔐 [ZK Credentials](https://github.com/vdsilveira/ZK_Credentials)
+#### 🔏 [ZK Credentials](https://github.com/vdsilveira/ZK_Credentials)
 **Zero-Knowledge Proof** implementations for privacy-preserving credential verification.
 
 </td>
 <td width="50%">
 
-#### 🌙 [Midnight Network Utils](https://github.com/vdsilveira/MidnIght-Node-Utils)
-Node tools and utilities for the **Midnight Network** privacy-focused blockchain.
+#### 🏛️ [Charter (Stellar)](https://github.com/vdsilveira/Charter)
+On-chain governance and treasury infrastructure for AI agents on **Stellar**, binding delegations and permissioned RWA transfers.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
+#### 🌙 [Midnight Privacy & Node Utils](https://github.com/vdsilveira/MD_Wrapped-Dollar_models)
+Shielded token smart contracts alongside [Midnight Node Utils](https://github.com/vdsilveira/MidnIght-Node-Utils) and **Regulated Asset Tokenization** ([ERC-3643 Talk](https://github.com/vdsilveira/erc3643-trex-regulated-assets-talk)) slides.
+
+</td>
+<td width="50%">
+
 #### 🎯 [SolCuts](https://github.com/vdsilveira/SOLCUTS_colosseum_Hackathon)
 Decentralized **Creator Economy** protocol powered by **Clip Pools** built on **Solana** (Rust).
-
-</td>
-<td width="50%">
-
-#### ₿ [Deterministic.Online](https://github.com/vdsilveira/Deterministic.Online)
-Client-side, air-gapped **Bitcoin wallet & key generator** deriving BIP39/BIP84/BIP86 keys from customizable entropy sources via **BLAKE3** hashing.
-
-</td>
-</tr>
-
-</td>
-<td width="50%">
-#### 🔐 [HTSS (Rust)](https://github.com/vdsilveira/HTSS_Hierarchical_Threshold_Signature_Scheme)
-**Hierarchical Threshold Signature Scheme** in **Rust** for multi-layered, rank-based cryptographic authorization.
-
-</td>
-</tr>
-</td>
-<td width="50%">
-#### 🏛️ [Charter (Stellar)](https://github.com/vdsilveira/Charter)
-On-chain governance and treasury infrastructure for AI agents on **Stellar**, binding delegations and permissioned RWA transfers.
-
-</td>
-</tr>
-</td>
-<td width="50%">
-#### 🌙 [Midnight Privacy](https://github.com/vdsilveira/MD_Wrapped-Dollar_models) & [ERC-3643 Talk](https://github.com/vdsilveira/erc3643-trex-regulated-assets-talk)
-Shielded token smart contracts, [Midnight Node Utils](https://github.com/vdsilveira/MidnIght-Node-Utils), and **Regulated Asset Tokenization** talk slides.
 
 </td>
 </tr>
